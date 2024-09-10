@@ -1,0 +1,19 @@
+{
+    "name": "aufccs/ipt10-lab6_3",
+    "description": "A simple PHP project using Composer",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aufccs\\Ipt10Lab63\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bien Guillan Miguel C. Tubil"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
